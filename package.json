@@ -9,6 +9,9 @@
     "url": "git://github.com/felixge/node-stack-trace.git"
   },
   "main": "./lib/stack-trace",
+  "scripts": {
+    "test": "node test/run"
+  },
   "engines": {
     "node": "*"
   },
